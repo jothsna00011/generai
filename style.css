@@ -1,0 +1,25 @@
+h1{
+    color: blueviolet;
+    text-decoration: underline;
+    text-align:center ;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+
+}
+body{
+    background-color: cornflowerblue;
+    font-size: larger;
+}
+
+h2{
+
+    text-align: left;
+    text-decoration: underline;
+    font-weight: 300;
+    color: purple;
+
+}
+button{
+    background-color: darkorchid;
+}
